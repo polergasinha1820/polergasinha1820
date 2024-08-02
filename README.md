@@ -1,16 +1,13 @@
-## Hi there 👋
+bem vindo ao meu perfil: 
 
-<!--
-**polergasinha1820/polergasinha1820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Puala
 
-Here are some ideas to get you started:
+Estou estudando na [Alura.](https:\\www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou me desenvolvendo na linguagem javaScript
+
+Utilizando esse espaço para minha organização do meu projeto 
+
+![](https://media1.tenor.com/m/Uy4qsJ43kQQAAAAC/alice-in-wonderland-curtsy.gif)
+
+![](https://media.tenor.com/xHk8kyyd_ykAAAAi/cocopry-stich.gif)
