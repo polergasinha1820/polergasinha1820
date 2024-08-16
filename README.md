@@ -1,6 +1,6 @@
-bem vindo ao meu perfil: 
+**bem vindo ao meu perfil:** 
 
-Meu nome é Ana Puala
+Meu nome é Ana Paula
 
 Estou estudando na [Alura.](https:\\www.alura.com.br)
 
